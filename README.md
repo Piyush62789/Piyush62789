@@ -40,32 +40,32 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css," />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite" />
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
 </p>
 
-### DevOps & Cloud
+### DevOps & Cloud & SERVERS
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,git,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,git,linux,nginx,postman,gitlab,apache,apachetomcat" />
 </p>
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### AI / ML
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas,scikit-learn" />
 </p>
 
 Python • NumPy • Pandas • Scikit-learn • OpenCV • YOLO • Ollama
