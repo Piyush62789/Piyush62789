@@ -1,18 +1,131 @@
-# 💫 About Me:
-I'm currently working on: AI-powered SaaS applications, DevOps automation, and Machine Learning projects.<br>👯 I'm looking to collaborate on: Open-source AI, DevOps, and Cloud projects.<br>🤝 I'm looking for help with: MLOps, Kubernetes, and scalable cloud architecture.<br>🌱 I'm currently learning: Kubernetes, Jenkins, AWS, CI/CD, and LLM applications.<br>💬 Ask me about: Python, Machine Learning, FastAPI, AWS, Docker, Git, and DevOps.<br>⚡ Fun fact: I love turning ideas into real-world AI applications and learning by building.
+<h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;DevOps+Enthusiast;AWS+Cloud+Learner;Building+AI-Powered+SaaS+Applications" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piyushsah_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/piyush-sah-743b05351/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Piyush62789&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Piyush62789&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Piyush62789&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/Piyush62789">
+    <img src="https://komarev.com/ghpvc/?username=Piyush62789&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Piyush62789&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+- 🔭 **Currently Working On:** AI-powered SaaS applications, DevOps automation, and Machine Learning projects.
+- 👯 **Looking to Collaborate On:** Open-source AI, DevOps, and Cloud projects.
+- 🤝 **Looking for Help With:** MLOps, Kubernetes, and scalable cloud architecture.
+- 🌱 **Currently Learning:** Kubernetes, Jenkins, AWS, CI/CD, and LLM applications.
+- 💬 **Ask Me About:** Python, Machine Learning, FastAPI, AWS, Docker, Git, and DevOps.
+- ⚡ **Fun Fact:** I love turning ideas into real-world AI applications and learning by building.
+
+---
+
+# 🌐 Socials
+
+<p align="center">
+  <a href="https://www.instagram.com/piyushsah_18/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/piyush-sah-743b05351/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs" />
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,git,linux,nginx" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+Python • NumPy • Pandas • Scikit-learn • OpenCV • YOLO • Ollama
+
+---
+
+# 🚀 Featured Projects
+
+- ✨ AI Interior Designer
+- ☎️ AI Voice Calling Agent
+- 📊 Real-Time Public Transport Tracking System
+- 🌍 Air Pollution Monitoring Using Satellite Data
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Piyush62789&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush62789&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush62789&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Piyush62789&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush62789&theme=tokyo-night" />
+</p>
+
+---
+
+# 🛠 Tools I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,aws,linux" />
+</p>
+
+---
+
+# ☕ Support Me
+
+<p align="center">
+  <a href="https://github.com/Piyush62789">
+    <img src="https://img.shields.io/badge/Follow%20Me-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Follow" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:6A11CB&height=120&section=footer" />
+</p>
